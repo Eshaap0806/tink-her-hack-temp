@@ -148,90 +148,11 @@ Interactive Skill Radar Visualization displaying proficiency levels across core 
 ![Workflow](docs/workflow.png)
 *Add caption explaining your workflow*
 ---
-### For Hardware:
-#### Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-#### Build Photos
-![Team](Add photo of your team here)
-![Components](Add photo of your components here)
-*List out all components shown*
-![Build](Add photos of build process here)
-*Explain the build steps*
-![Final](Add photo of final product here)
-*Explain the final build*
----
-## Additional Documentation
-### For Web Projects with Backend:
-#### API Documentation
-**Base URL:** `https://api.yourproject.com`
-##### Endpoints
-**GET /api/endpoint**
-- **Description:** [What it does]
-- **Parameters:**
-  - `param1` (string): [Description]
-  - `param2` (integer): [Description]
-- **Response:**
-```json
-{
-  "status": "success",
-  "data": {}
-}
-```
-**POST /api/endpoint**
-- **Description:** [What it does]
-- **Request Body:**
-```json
-{
-  "field1": "value1",
-  "field2": "value2"
-}
-```
-- **Response:**
-```json
-{
-  "status": "success",
-  "message": "Operation completed"
-}
-```
-[Add more endpoints as needed...]
----
 
 
 
-#### Assembly Instructions
 
-**Step 1: Prepare Components**
-1. Gather all components listed in the BOM
-2. Check component specifications
-3. Prepare your workspace
-![Step 1](images/assembly-step1.jpg)
-*Caption: All components laid out*
 
-**Step 2: Build the Power Supply**
-1. Connect the power rails on the breadboard
-2. Connect Arduino 5V to breadboard positive rail
-3. Connect Arduino GND to breadboard negative rail
-![Step 2](images/assembly-step2.jpg)
-*Caption: Power connections completed*
-
-**Step 3: Add Components**
-1. Place LEDs on breadboard
-2. Connect resistors in series with LEDs
-3. Connect LED cathodes to GND
-4. Connect LED anodes to Arduino digital pins (2-6)
-![Step 3](images/assembly-step3.jpg)
-*Caption: LED circuit assembled*
-
-**Step 4: [Continue for all steps...]**
-
-**Final Assembly:**
-![Final Build](images/final-build.jpg)
-*Caption: Completed project ready for testing*
-
----
 
 ### For Scripts/CLI Tools:
 
@@ -351,27 +272,23 @@ If you used AI tools during development, document them here for transparency:
 -provided debugging support for virtual environment and deployment issues
 
 **Key Prompts Used:**
-- "Create a REST API endpoint for user authentication"
+- Required Skills Extraction Prompt
 - "Debug this async function that's causing race conditions"
 - "Optimize this database query for better performance"
 
-**Percentage of AI-generated code:** [Approximately X%]
+**Percentage of AI-generated code:** [70 to 80%]
 
 **Human Contributions:**
-- Architecture design and planning
-- Custom business logic implementation
-- Integration and testing
-- UI/UX design decisions
-
-*Note: Proper documentation of AI usage demonstrates transparency and earns bonus points in evaluation!*
-
+- Product Idea & Vision
+- Full Career Analysis Prompt
+- Resume Optimization Prompt
+-Roadmap Engineering Prompt
 ---
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
+- Diya Baby:Co-developed the Streamlit application, implemented Gemini API integration, designed the skill gap analysis logic, and contributed equally to debugging, testing, and deployment. Actively participated in GitHub commits, feature implementation, and documentation.
+- Esha A P: Co-developed the Streamlit application, implemented resume parsing and visualization features, contributed equally to backend logic and AI prompt engineering, and handled testing, optimization, and GitHub repository management.
 
 ---
 
