@@ -6,7 +6,7 @@
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: Twin devs 
 
 ### Team Members
 - Member 1: Diya Baby - College of Engineering Trivandrum
