@@ -95,14 +95,38 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1916" height="853" alt="image" src="https://github.com/user-attachments/assets/79c50512-48c7-4f0f-8148-1c6c961b5d21" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Career Input & Personal Profiling Module
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1911" height="876" alt="image" src="https://github.com/user-attachments/assets/87ef5c5f-1ba4-4d22-ac0f-b49fe45b966e" />
+
+Skill Profiling & Gap Assessment Module
+
+<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/8e24bbd7-6ce4-42e7-ba73-c3ff4664fa35" />
+
+AI-Powered Skill Gap Analysis with Personalized Learning Roadmap and Career Acceleration Strategy
+
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/235bbf56-6c7d-40b4-9c00-12bb71a30ca9" />
+
+AI-Generated Career Advancement Plan featuring structured resume improvement strategies, quantified project enhancements, and industry-ready positioning guidance for frontend developer roles.
+
+<img width="1916" height="867" alt="image" src="https://github.com/user-attachments/assets/1f12ff41-4bd6-42fd-9de3-219e49b498a4" />
+
+Structured 30-Day Frontend Mastery Roadmap outlining progressive learning from advanced JavaScript and CSS to React deep dive, version control, and real-world deployment strategy
+
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/7548b6cc-27fd-4132-bb60-936412b719f5" />
+
+Comprehensive 6-Month Career Acceleration and Interview Strategy outlining project building, open-source contributions, DSA preparation, internship targeting, portfolio branding, and structured technical interview readiness.
+
+<img width="1919" height="580" alt="image" src="https://github.com/user-attachments/assets/e594d401-14c9-4666-b8c0-4fbec2f817de" />
+
+Strategic Salary Growth Advisory outlining fresher market benchmarks, high-value skill recommendations (TypeScript), location-based opportunities, and smart negotiation tactics to maximize compensation potential.
+
+
+<img width="1916" height="866" alt="image" src="https://github.com/user-attachments/assets/93894146-2a10-499e-aaba-53aecb7e5704" />
+
+Interactive Skill Radar Visualization displaying proficiency levels across core frontend competencies (HTML, CSS, JavaScript) for quick self-assessment and performance benchmarking
 
 #### Diagrams
 
