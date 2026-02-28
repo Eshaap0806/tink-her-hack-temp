@@ -127,34 +127,13 @@ Strategic Salary Growth Advisory outlining fresher market benchmarks, high-value
 
 Interactive Skill Radar Visualization displaying proficiency levels across core frontend competencies (HTML, CSS, JavaScript) for quick self-assessment and performance benchmarking
 
-#### Diagrams
-
-**System Architecture:**
-
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
-
-**Application Workflow:**
-
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
-
----
-
-
-
-
-
-
-
 
 
 
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
-
+https://youtu.be/PAu-JamDzWE
 
 
 **Tool Used:**  ChatGPT,aistudio
