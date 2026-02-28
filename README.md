@@ -79,12 +79,12 @@ The app presents career insights through metrics such as Skill Match %, Career C
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
+pip install -r requirements.txt
 ```
 
 #### Run
 ```bash
-[Run commands - e.g., npm start, python app.py]
+streamlit run app.py
 ```
 
 
