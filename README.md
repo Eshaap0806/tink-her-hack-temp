@@ -141,13 +141,8 @@ Interactive Skill Radar Visualization displaying proficiency levels across core 
 
 ---
 
-**System Architecture:**
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
-**Application Workflow:**
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
----
+
+
 
 
 
