@@ -13,7 +13,7 @@
 - Member 2: Esha A P  - College of Engineering Trivandrum
 
 ### Hosted Project Link
-[mention your project hosted link here]
+http://localhost:8501
 
 ### Project Description
 AI Career Advancement Advisor is an intelligent web application that analyzes a user’s skills, resume, and target career role to identify skill gaps and generate a personalized career growth roadmap. It provides dynamic skill gap analysis, resume improvement suggestions, and ROI-based career forecasting using AI.
