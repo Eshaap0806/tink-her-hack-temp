@@ -58,10 +58,18 @@ Python Virtual Environment (venv)
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: AI-Powered Skill Gap Analysis
+
+The system dynamically fetches industry-relevant skills for a selected career role and compares them with the user’s current skill levels. It calculates a skill match percentage and identifies missing or underdeveloped competencies.
+- Feature 2: Resume Intelligence & ATS Readiness Score
+
+Users can upload their resume (PDF/TXT), and the application evaluates resume strength and ATS compatibility. It provides targeted suggestions to improve structure, keyword optimization, and impact.
+- Feature 3: Personalized Career Roadmap
+
+Using AI, the platform generates a 30-day improvement plan and a 6-month career acceleration strategy, including interview preparation, learning priorities, and structured growth guidance.
+- Feature 4: Visual Skill Analytics Dashboard
+
+The app presents career insights through metrics such as Skill Match %, Career Category, and a radar chart visualization, helping users clearly understand their strengths and weaknesses.
 
 ---
 
