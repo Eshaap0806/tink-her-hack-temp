@@ -30,18 +30,30 @@ Based on this analysis, the system generates a personalized 30-day improvement r
 
 ### Technologies/Components Used
 
-**For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+Languages Used: Python
+Frameworks Used: Streamlit (Web Application Framework)
+
+Libraries Used:
+Google Generative AI (Gemini API)
+python-dotenv (Environment variable management)
+PyPDF2 (Resume PDF parsing)
+Matplotlib (Skill radar visualization)
+NumPy (Numerical computations)
+JSON & Regex (Data processing and validation)
+
+Tools Used:
+VS Code (Development environment)
+Git & GitHub (Version control)
+Streamlit Community Cloud (Deployment)
+Python Virtual Environment (venv)
 
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Main Components:Standard Laptop / PC
 
----
+- Specifications:
+     Minimum 8GB RAM recommended
+     Internet connection (for AI API calls)
+  Tools required: Web browser (Chrome / Firefox / Edge)
 
 ## Features
 
