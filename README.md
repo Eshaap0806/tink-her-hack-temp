@@ -198,52 +198,8 @@ Interactive Skill Radar Visualization displaying proficiency levels across core 
 ```
 [Add more endpoints as needed...]
 ---
-### For Mobile Apps:
-#### App Flow Diagram
-![App Flow](docs/app-flow.png)
-*Explain the user flow through your application*
-#### Installation Guide
-**For Android (APK):**
-1. Download the APK from [Release Link]
-2. Enable "Install from Unknown Sources" in your device settings:
-   - Go to Settings > Security
-   - Enable "Unknown Sources"
-3. Open the downloaded APK file
-4. Follow the installation prompts
-5. Open the app and enjoy!
-**For iOS (IPA) - TestFlight:**
-1. Download TestFlight from the App Store
-2. Open this TestFlight link: [Your TestFlight Link]
-3. Click "Install" or "Accept"
-4. Wait for the app to install
-5. Open the app from your home screen
-**Building from Source:**
-```bash
-# For Android
-flutter build apk
-# or
-./gradlew assembleDebug
-# For iOS
-flutter build ios
-# or
-xcodebuild -workspace App.xcworkspace -scheme App -configuration Debug
-```
----
 
-### For Hardware Projects:
 
-#### Bill of Materials (BOM)
-
-| Component | Quantity | Specifications | Price | Link/Source |
-|-----------|----------|----------------|-------|-------------|
-| Arduino Uno | 1 | ATmega328P, 16MHz | ₹450 | [Link] |
-| LED | 5 | Red, 5mm, 20mA | ₹5 each | [Link] |
-| Resistor | 5 | 220Ω, 1/4W | ₹1 each | [Link] |
-| Breadboard | 1 | 830 points | ₹100 | [Link] |
-| Jumper Wires | 20 | Male-to-Male | ₹50 | [Link] |
-| [Add more...] | | | | |
-
-**Total Estimated Cost:** ₹[Amount]
 
 #### Assembly Instructions
 
@@ -389,12 +345,10 @@ python script.py -v --format json data.json
 
 If you used AI tools during development, document them here for transparency:
 
-**Tool Used:** [e.g., GitHub Copilot, v0.dev, Cursor, ChatGPT, Claude]
+**Tool Used:**  ChatGPT,aistudio
 
-**Purpose:** [What you used it for]
-- Example: "Generated boilerplate React components"
-- Example: "Debugging assistance for async functions"
-- Example: "Code review and optimization suggestions"
+**Purpose:** 
+-provided debugging support for virtual environment and deployment issues
 
 **Key Prompts Used:**
 - "Create a REST API endpoint for user authentication"
@@ -418,17 +372,6 @@ If you used AI tools during development, document them here for transparency:
 - [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
 - [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
 - [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
-
----
-
-## License
-
-This project is licensed under the [LICENSE_NAME] License - see the [LICENSE](LICENSE) file for details.
-
-**Common License Options:**
-- MIT License (Permissive, widely used)
-- Apache 2.0 (Permissive with patent grant)
-- GPL v3 (Copyleft, requires derivative works to be open source)
 
 ---
 
