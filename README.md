@@ -9,22 +9,22 @@
 ### Team Name: [Name]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Diya Baby - College of Engineering Trivandrum
+- Member 2: Esha A P  - College of Engineering Trivandrum
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+AI Career Advancement Advisor is an intelligent web application that analyzes a user’s skills, resume, and target career role to identify skill gaps and generate a personalized career growth roadmap. It provides dynamic skill gap analysis, resume improvement suggestions, and ROI-based career forecasting using AI.
 
 ### The Problem statement
-[What problem are you solving?]
+Students and early professionals often lack clarity about whether their current skills align with industry expectations. They struggle to understand missing competencies, improve their resumes strategically, and plan structured learning paths that maximize career growth and salary potential.
 
 ### The Solution
-[How are you solving it?]
+Our solution leverages AI-powered analysis to bridge the gap between a user’s current skill set and real industry expectations. The application dynamically identifies the top required technical skills for a chosen career role and compares them against the user’s self-assessed skill levels and resume content. It then calculates skill match percentage, detects missing competencies, evaluates resume strength, and estimates ATS readiness.
 
----
+Based on this analysis, the system generates a personalized 30-day improvement roadmap and a 6-month career acceleration strategy. It also provides interview preparation guidance, resume enhancement recommendations, and salary growth insights. By combining skill analytics, resume intelligence, and AI-driven career forecasting, the platform enables users to make structured, data-driven decisions for faster and smarter career advancement.
 
 ## Technical Details
 
